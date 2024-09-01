@@ -733,7 +733,7 @@ line-height: 4vh;
 .item6 {
 background-image: url("htmlImages/background.jpg");
 width: 100vw;
-height: 130vh;
+height: auto;
 padding: 0;
 text-align: center;
 margin-top:50vh ;
