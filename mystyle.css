@@ -334,6 +334,13 @@ width:100%;
 padding: 5vh;
 
 }
+.item81{
+    transition:transform 0.3s ease;
+}
+
+.item81:hover{
+    transform:scale(0.9);
+}
 .item8text{
 list-style: none;
 font-size:1.6em ;
